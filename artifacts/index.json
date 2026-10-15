@@ -1,0 +1,47 @@
+{
+  "artifacts": [
+    {
+      "kind": "bny",
+      "name": "bny_three_method__dev__llm",
+      "path": "artifacts/bny/bny_three_method__dev__llm.json",
+      "status": "computed",
+      "created_utc": "2026-10-12T21:33:10+00:00"
+    },
+    {
+      "kind": "benchmarks",
+      "name": "fincausal2026__dev_internal__dev__llm",
+      "path": "artifacts/benchmarks/fincausal2026__dev_internal__dev__llm.json",
+      "status": "computed",
+      "created_utc": "2026-10-12T21:33:19+00:00",
+      "benchmark": "FinCausal 2026",
+      "dataset": "fincausal2026",
+      "split": "dev_internal",
+      "n": 12
+    },
+    {
+      "kind": "benchmarks",
+      "name": "averitec__dev__dev__llm",
+      "path": "artifacts/benchmarks/averitec__dev__dev__llm.json",
+      "status": "computed",
+      "created_utc": "2026-10-12T21:33:30+00:00",
+      "benchmark": "AVeriTeC",
+      "dataset": "averitec",
+      "split": "dev",
+      "n": 12
+    },
+    {
+      "kind": "bny",
+      "name": "bny_poc_E3_E4_E5__llm",
+      "path": "artifacts/bny/bny_poc_E3_E4_E5__llm.json",
+      "status": "computed",
+      "created_utc": "2026-10-15T12:25:15+00:00"
+    },
+    {
+      "kind": "bny",
+      "name": "bny_poc_E3_E4_E5__llm__reviewed_v2",
+      "path": "artifacts/bny/bny_poc_E3_E4_E5__llm__reviewed_v2.json",
+      "status": "computed",
+      "created_utc": "2026-10-15T12:25:15+00:00"
+    }
+  ]
+}
